@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bcc96dd68de864983a860667d60dbd36
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - popSound: {fileID: 8300000, guid: dfc4c780982ab4961825afae795b9ac7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
